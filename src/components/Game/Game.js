@@ -48,7 +48,7 @@ const Game = () => {
   };
   return (
     <FlexBox>
-      <h1 className="title">Favorite Worldcup</h1>
+      <h1 className="title">월드컵</h1>
       {displays.map(d => {
         return (
           <div className="flex-1" key={d.name} onClick={clickHandler(d)}>
