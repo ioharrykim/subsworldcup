@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a89054be588c45b3edc047ce6a95214",
+    "revision": "aab9f92a0bee595807b6a61489394cf2",
     "url": "/subsworldcup/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/subsworldcup/static/js/2.9bfcb698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aaca59e9c664ae7cfb7b",
-    "url": "/subsworldcup/static/js/main.4e364984.chunk.js"
+    "revision": "6640882e183c7a97239c",
+    "url": "/subsworldcup/static/js/main.9aba4ca4.chunk.js"
   },
   {
     "revision": "2f715ac75c56dcd5b6d3",
