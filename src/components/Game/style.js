@@ -24,7 +24,6 @@ export const FlexBox = styled.div`
   }
   .food-img {
     width: 100%;
-    height: 100%;
     transition: 0.5s;
     cursor: pointer;
   }
