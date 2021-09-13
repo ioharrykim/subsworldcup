@@ -4,6 +4,7 @@ export const FlexBox = styled.div`
   display: flex;
   flex-wrap: wrap;
   height: 100vh;
+  
   .title {
     position: absolute;
     z-index: 2;
@@ -30,8 +31,10 @@ export const FlexBox = styled.div`
   .food-img:hover {
     transform: scale(1.1);
     opacity: 0.8;
+    border: 5px solid #fff;
   }
   .name {
+    display:none;
     position: absolute;
     z-index: 3;
     color: #fff;
