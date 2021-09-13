@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/subsworldcup/static/js/main.51624d69.chunk.js",
-    "main.js.map": "/subsworldcup/static/js/main.51624d69.chunk.js.map",
+    "main.js": "/subsworldcup/static/js/main.4e364984.chunk.js",
+    "main.js.map": "/subsworldcup/static/js/main.4e364984.chunk.js.map",
     "runtime-main.js": "/subsworldcup/static/js/runtime-main.9bebd259.js",
     "runtime-main.js.map": "/subsworldcup/static/js/runtime-main.9bebd259.js.map",
     "static/js/2.9bfcb698.chunk.js": "/subsworldcup/static/js/2.9bfcb698.chunk.js",
     "static/js/2.9bfcb698.chunk.js.map": "/subsworldcup/static/js/2.9bfcb698.chunk.js.map",
     "index.html": "/subsworldcup/index.html",
-    "precache-manifest.a3d13fc1f039351e4c40223d2e04fae2.js": "/subsworldcup/precache-manifest.a3d13fc1f039351e4c40223d2e04fae2.js",
+    "precache-manifest.d39146205d13765f8c5aa8b9e96ec785.js": "/subsworldcup/precache-manifest.d39146205d13765f8c5aa8b9e96ec785.js",
     "service-worker.js": "/subsworldcup/service-worker.js",
     "static/js/2.9bfcb698.chunk.js.LICENSE.txt": "/subsworldcup/static/js/2.9bfcb698.chunk.js.LICENSE.txt",
     "static/media/burger.jpg": "/subsworldcup/static/media/burger.86afa5c6.jpg",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.9bebd259.js",
     "static/js/2.9bfcb698.chunk.js",
-    "static/js/main.51624d69.chunk.js"
+    "static/js/main.4e364984.chunk.js"
   ]
 }
