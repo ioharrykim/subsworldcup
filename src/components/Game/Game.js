@@ -3,20 +3,40 @@ import { FlexBox } from "./style";
 
 const items = [
   {
-    name: "햄버거",
-    src: require("../../img/burger.jpg")
+    name: "1",
+    src: require("../../img/1.jpg")
   },
   {
-    name: "볶음밥",
-    src: require("../../img/fried-rice.jpg")
+    name: "2",
+    src: require("../../img/2.jpg")
   },
   {
-    name: "파스타",
-    src: require("../../img/pasta.jpg")
+    name: "3",
+    src: require("../../img/3.jpg")
   },
   {
-    name: "라면",
-    src: require("../../img/ramen.jpg")
+    name: "4",
+    src: require("../../img/4.jpg")
+  }
+  ,
+  {
+    name: "5",
+    src: require("../../img/5.jpg")
+  }
+  ,
+  {
+    name: "6",
+    src: require("../../img/6.jpg")
+  }
+  ,
+  {
+    name: "7",
+    src: require("../../img/7.jpg")
+  }
+  ,
+  {
+    name: "8",
+    src: require("../../img/8.jpg")
   }
 ];
 

@@ -30,8 +30,7 @@ export const FlexBox = styled.div`
   }
   .food-img:hover {
     transform: scale(1.1);
-    opacity: 0.8;
-    border: 5px solid #fff;
+    opacity: 0.6;
   }
   .name {
     display:none;
