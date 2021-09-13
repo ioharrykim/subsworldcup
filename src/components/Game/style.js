@@ -16,7 +16,7 @@ export const FlexBox = styled.div`
     align-items: center;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #fff;
+    background-color: rgba(255,255,255,0.3);
     padding: 20px;
     text-transform: uppercase;
     padding-bottom: 10px;
