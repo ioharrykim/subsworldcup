@@ -4,15 +4,20 @@ export const FlexBox = styled.div`
   display: flex;
   flex-wrap: wrap;
   height: 100vh;
+  overflow: hidden;
   
   .title {
     position: absolute;
     z-index: 2;
     top: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     left: 50%;
     transform: translateX(-50%);
     background-color: #fff;
-    padding: 0px 30px;
+    padding: 20px;
     text-transform: uppercase;
     padding-bottom: 10px;
   }
