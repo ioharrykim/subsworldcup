@@ -1,12 +1,21 @@
 import styled from "styled-components";
 
 export const FlexBox = styled.div`
+
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
   display: flex;
   flex-wrap: wrap;
   height: 100vh;
   overflow: hidden;
   
   .title {
+    font-family: 'GmarketSansMedium';
     position: absolute;
     z-index: 2;
     top: 0;
