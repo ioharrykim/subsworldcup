@@ -3,265 +3,265 @@ import { FlexBox } from "./style";
 
 const items = [
   {
-    name: "1",
-    src: require("../../img/1.jpg")
+    name: "와이즐리",
+    src: require("../../img/와이즐리.jpg")
   },
   {
-    name: "2",
-    src: require("../../img/2.jpg")
+    name: "모닝랩",
+    src: require("../../img/모닝랩.jpg")
   },
   {
-    name: "3",
-    src: require("../../img/3.jpg")
+    name: "네이버플러스멤버쉽",
+    src: require("../../img/네이버플러스멤버쉽.jpg")
   },
   {
-    name: "4",
-    src: require("../../img/4.jpg")
+    name: "술담화",
+    src: require("../../img/술담화.jpg")
   }
   ,
   {
-    name: "5",
-    src: require("../../img/5.jpg")
+    name: "메존",
+    src: require("../../img/메존.jpg")
   }
   ,
   {
-    name: "6",
-    src: require("../../img/6.jpg")
+    name: "리얼후르츠",
+    src: require("../../img/리얼후르츠.jpg")
   }
   ,
   {
-    name: "7",
-    src: require("../../img/7.jpg")
+    name: "홍콘여행",
+    src: require("../../img/홍콘여행.jpg")
   }
   ,
   {
-    name: "8",
-    src: require("../../img/8.jpg")
+    name: "동네정미소",
+    src: require("../../img/동네정미소.jpg")
   }
   ,
   {
-    name: "9",
-    src: require("../../img/9.jpg")
+    name: "미하이삭스",
+    src: require("../../img/미하이삭스.jpg")
   },
   {
-    name: "10",
-    src: require("../../img/10.jpg")
+    name: "그리팅몰",
+    src: require("../../img/그리팅몰.jpg")
   },
   {
-    name: "11",
-    src: require("../../img/11.jpg")
+    name: "버거킹",
+    src: require("../../img/버거킹.jpg")
   },
   {
-    name: "12",
-    src: require("../../img/12.jpg")
+    name: "미공",
+    src: require("../../img/미공.jpg")
   },
   {
-    name: "13",
-    src: require("../../img/13.jpg")
+    name: "어도비크리에이티브",
+    src: require("../../img/어도비크리에이티브.jpg")
   },
   {
-    name: "14",
-    src: require("../../img/14.jpg")
+    name: "카카오톡이모티콘",
+    src: require("../../img/카카오톡이모티콘.jpg")
   },
   {
-    name: "15",
-    src: require("../../img/15.jpg")
+    name: "모두의셔틀",
+    src: require("../../img/모두의셔틀.jpg")
   },
   {
-    name: "16",
-    src: require("../../img/16.jpg")
+    name: "카페박스",
+    src: require("../../img/카페박스.jpg")
   },
   {
-    name: "17",
-    src: require("../../img/17.jpg")
+    name: "마장동소도둑단",
+    src: require("../../img/마장동소도둑단.jpg")
   },
   {
-    name: "18",
-    src: require("../../img/18.jpg")
+    name: "위잇딜라이트",
+    src: require("../../img/위잇딜라이트.jpg")
   },
   {
-    name: "19",
-    src: require("../../img/19.jpg")
+    name: "넷플릭스",
+    src: require("../../img/넷플릭스.jpg")
   },
   {
-    name: "20",
-    src: require("../../img/20.jpg")
+    name: "다다일상",
+    src: require("../../img/다다일상.jpg")
   },
   {
-    name: "21",
-    src: require("../../img/21.jpg")
+    name: "포르쉐패스포트",
+    src: require("../../img/포르쉐패스포트.jpg")
   },
   {
-    name: "22",
-    src: require("../../img/22.jpg")
+    name: "야쿠르트",
+    src: require("../../img/야쿠르트.jpg")
   },
   {
-    name: "23",
-    src: require("../../img/23.jpg")
+    name: "끌레도르",
+    src: require("../../img/끌레도르.jpg")
   },
   {
-    name: "24",
-    src: require("../../img/24.jpg")
+    name: "홈술닷컴",
+    src: require("../../img/홈술닷컴.jpg")
   },
   {
-    name: "25",
-    src: require("../../img/25.jpg")
+    name: "매거진D",
+    src: require("../../img/매거진D.jpg")
   },
   {
-    name: "26",
-    src: require("../../img/26.jpg")
+    name: "마이클레어",
+    src: require("../../img/마이클레어.jpg")
   },
   {
-    name: "27",
-    src: require("../../img/27.jpg")
+    name: "리치즈박스",
+    src: require("../../img/리치즈박스.jpg")
   },
   {
-    name: "28",
-    src: require("../../img/28.jpg")
+    name: "월간가슴",
+    src: require("../../img/월간가슴.jpg")
   },
   {
-    name: "29",
-    src: require("../../img/29.jpg")
+    name: "나물투데이",
+    src: require("../../img/나물투데이.jpg")
   },
   {
-    name: "30",
-    src: require("../../img/30.jpg")
+    name: "모닝푸드",
+    src: require("../../img/모닝푸드.jpg")
   },
   {
-    name: "31",
-    src: require("../../img/31.jpg")
+    name: "에코후레쉬",
+    src: require("../../img/에코후레쉬.jpg")
   },
   {
-    name: "32",
-    src: require("../../img/32.jpg")
+    name: "온돌플러스",
+    src: require("../../img/온돌플러스.jpg")
   },
   {
-    name: "33",
-    src: require("../../img/33.jpg")
+    name: "오픈갤러리",
+    src: require("../../img/오픈갤러리.jpg")
   },
   {
-    name: "34",
-    src: require("../../img/34.jpg")
+    name: "클린베딩",
+    src: require("../../img/클린베딩.jpg")
   },
   {
-    name: "35",
-    src: require("../../img/35.jpg")
+    name: "오늘도",
+    src: require("../../img/오늘도.jpg")
   },
   {
-    name: "36",
-    src: require("../../img/36.jpg")
+    name: "해피문데이",
+    src: require("../../img/해피문데이.jpg")
   },
   {
-    name: "37",
-    src: require("../../img/37.jpg")
+    name: "노블메이드",
+    src: require("../../img/노블메이드.jpg")
   },
   {
-    name: "38",
-    src: require("../../img/38.jpg")
+    name: "넥스트커버",
+    src: require("../../img/넥스트커버.jpg")
   },
   {
-    name: "39",
-    src: require("../../img/39.jpg")
+    name: "스낵트립",
+    src: require("../../img/스낵트립.jpg")
   },
   {
-    name: "40",
-    src: require("../../img/40.jpg")
+    name: "레저미",
+    src: require("../../img/레저미.jpg")
   },
   {
-    name: "41",
-    src: require("../../img/41.jpg")
+    name: "모티피아",
+    src: require("../../img/모티피아.jpg")
   },
   {
-    name: "42",
-    src: require("../../img/42.jpg")
+    name: "도시생활건강",
+    src: require("../../img/도시생활건강.jpg")
   },
   {
-    name: "43",
-    src: require("../../img/43.jpg")
+    name: "로컬스티치",
+    src: require("../../img/로컬스티치.jpg")
   },
   {
-    name: "44",
-    src: require("../../img/44.jpg")
+    name: "퍼플독",
+    src: require("../../img/퍼플독.jpg")
   },
   {
-    name: "45",
-    src: require("../../img/45.jpg")
+    name: "험블초이스",
+    src: require("../../img/험블초이스.jpg")
   },
   {
-    name: "46",
-    src: require("../../img/46.jpg")
+    name: "큐잇",
+    src: require("../../img/큐잇.jpg")
   },
   {
-    name: "47",
-    src: require("../../img/47.jpg")
+    name: "에브리패스",
+    src: require("../../img/에브리패스.jpg")
   },
   {
-    name: "48",
-    src: require("../../img/48.jpg")
+    name: "월간펫띵",
+    src: require("../../img/월간펫띵.jpg")
   },
   {
-    name: "49",
-    src: require("../../img/49.jpg")
+    name: "보틀웍스",
+    src: require("../../img/보틀웍스.jpg")
   },
   {
-    name: "50",
-    src: require("../../img/50.jpg")
+    name: "아이노하우",
+    src: require("../../img/아이노하우.jpg")
   },
   {
-    name: "51",
-    src: require("../../img/51.jpg")
+    name: "토스프라임",
+    src: require("../../img/토스프라임.jpg")
   },
   {
-    name: "52",
-    src: require("../../img/52.jpg")
+    name: "후지미",
+    src: require("../../img/후지미.jpg")
   },
   {
-    name: "53",
-    src: require("../../img/53.jpg")
+    name: "멜론",
+    src: require("../../img/멜론.jpg")
   },
   {
-    name: "54",
-    src: require("../../img/54.jpg")
+    name: "월간과자",
+    src: require("../../img/월간과자.jpg")
   },
   {
-    name: "55",
-    src: require("../../img/55.jpg")
+    name: "달나라",
+    src: require("../../img/달나라.jpg")
   },
   {
-    name: "56",
+    name: "슬림쿡",
     src: require("../../img/56.jpg")
   },
   {
-    name: "57",
-    src: require("../../img/57.jpg")
+    name: "위클리티셔츠",
+    src: require("../../img/위클리티셔츠.jpg")
   },
   {
-    name: "58",
-    src: require("../../img/58.jpg")
+    name: "밀리의서재",
+    src: require("../../img/밀리의서재.jpg")
   },
   {
-    name: "59",
-    src: require("../../img/59.jpg")
+    name: "오피스365",
+    src: require("../../img/오피스365.jpg")
   },
   {
-    name: "60",
-    src: require("../../img/60.jpg")
+    name: "구구",
+    src: require("../../img/구구.jpg")
   },
   {
-    name: "61",
-    src: require("../../img/61.jpg")
+    name: "쿠팡와우",
+    src: require("../../img/쿠팡와우.jpg")
   },
   {
-    name: "62",
-    src: require("../../img/62.jpg")
+    name: "런드리고",
+    src: require("../../img/런드리고.jpg")
   },
   {
-    name: "63",
-    src: require("../../img/63.jpg")
+    name: "꾸까",
+    src: require("../../img/꾸까.jpg")
   },
   {
-    name: "64",
-    src: require("../../img/64.jpg")
+    name: "하트노트",
+    src: require("../../img/하트노트.jpg")
   }
 ];
 
@@ -270,7 +270,7 @@ const Game = () => {
   const [displays, setDisplays] = useState([]);
   const [winners, setWinners] = useState([]);
   useEffect(() => {
-    items.sort(() => Math.random() - 0.5);
+    // items.sort(() => Math.random() - 0.5);
     setThings(items);
     setDisplays([items[0], items[1]]);
   }, []);
