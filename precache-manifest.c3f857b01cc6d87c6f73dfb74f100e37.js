@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbd8a1f04f7dd7c432d8d3e839847c57",
+    "revision": "5d4dd56aeba89468e9775d3624104c6e",
     "url": "/subsworldcup/index.html"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/subsworldcup/static/js/2.9bfcb698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdd20897b664bc60978d",
-    "url": "/subsworldcup/static/js/main.fa6006eb.chunk.js"
+    "revision": "aeb4ce20e00c755313fc",
+    "url": "/subsworldcup/static/js/main.fe0f3289.chunk.js"
   },
   {
     "revision": "2f715ac75c56dcd5b6d3",
     "url": "/subsworldcup/static/js/runtime-main.9bebd259.js"
-  },
-  {
-    "revision": "92475c55a09e8459e2b857b858744e51",
-    "url": "/subsworldcup/static/media/56.92475c55.jpg"
   },
   {
     "revision": "1bcf4ad9a087be04fcdf248a03eeff1a",
@@ -158,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f28a7ebba64ad9943e4e7c9bdd0299bb",
     "url": "/subsworldcup/static/media/스낵트립.f28a7ebb.jpg"
+  },
+  {
+    "revision": "199a6a1e71da02bcf6d94f36e3c227fa",
+    "url": "/subsworldcup/static/media/슬림쿡.199a6a1e.jpg"
   },
   {
     "revision": "878738d7b07ec4a8376a0ee57889e4fa",

@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.js": "/subsworldcup/static/js/main.fa6006eb.chunk.js",
-    "main.js.map": "/subsworldcup/static/js/main.fa6006eb.chunk.js.map",
+    "main.js": "/subsworldcup/static/js/main.fe0f3289.chunk.js",
+    "main.js.map": "/subsworldcup/static/js/main.fe0f3289.chunk.js.map",
     "runtime-main.js": "/subsworldcup/static/js/runtime-main.9bebd259.js",
     "runtime-main.js.map": "/subsworldcup/static/js/runtime-main.9bebd259.js.map",
     "static/js/2.9bfcb698.chunk.js": "/subsworldcup/static/js/2.9bfcb698.chunk.js",
     "static/js/2.9bfcb698.chunk.js.map": "/subsworldcup/static/js/2.9bfcb698.chunk.js.map",
     "index.html": "/subsworldcup/index.html",
-    "precache-manifest.fcb7d964334a3ba98c13099d19af123f.js": "/subsworldcup/precache-manifest.fcb7d964334a3ba98c13099d19af123f.js",
+    "precache-manifest.c3f857b01cc6d87c6f73dfb74f100e37.js": "/subsworldcup/precache-manifest.c3f857b01cc6d87c6f73dfb74f100e37.js",
     "service-worker.js": "/subsworldcup/service-worker.js",
     "static/js/2.9bfcb698.chunk.js.LICENSE.txt": "/subsworldcup/static/js/2.9bfcb698.chunk.js.LICENSE.txt",
-    "static/media/56.jpg": "/subsworldcup/static/media/56.92475c55.jpg",
     "static/media/구구.jpg": "/subsworldcup/static/media/구구.1bcf4ad9.jpg",
     "static/media/그리팅몰.jpg": "/subsworldcup/static/media/그리팅몰.b650f798.jpg",
     "static/media/꾸까.jpg": "/subsworldcup/static/media/꾸까.a0e1aff5.jpg",
@@ -45,6 +44,7 @@
     "static/media/보틀웍스.jpg": "/subsworldcup/static/media/보틀웍스.ac4de221.jpg",
     "static/media/술담화.jpg": "/subsworldcup/static/media/술담화.f78f1268.jpg",
     "static/media/스낵트립.jpg": "/subsworldcup/static/media/스낵트립.f28a7ebb.jpg",
+    "static/media/슬림쿡.jpg": "/subsworldcup/static/media/슬림쿡.199a6a1e.jpg",
     "static/media/아이노하우.jpg": "/subsworldcup/static/media/아이노하우.878738d7.jpg",
     "static/media/야쿠르트.jpg": "/subsworldcup/static/media/야쿠르트.00b9705b.jpg",
     "static/media/어도비크리에이티브.jpg": "/subsworldcup/static/media/어도비크리에이티브.9d1dbcee.jpg",
@@ -78,6 +78,6 @@
   "entrypoints": [
     "static/js/runtime-main.9bebd259.js",
     "static/js/2.9bfcb698.chunk.js",
-    "static/js/main.fa6006eb.chunk.js"
+    "static/js/main.fe0f3289.chunk.js"
   ]
 }
