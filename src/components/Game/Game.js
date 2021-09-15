@@ -229,7 +229,7 @@ const items = [
   },
   {
     name: "슬림쿡",
-    src: require("../../img/56.jpg")
+    src: require("../../img/슬림쿡.jpg")
   },
   {
     name: "위클리티셔츠",
